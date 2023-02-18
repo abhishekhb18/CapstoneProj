@@ -1,0 +1,9 @@
+2023-02-18 23:38:33,735  INFO [main] Driver:42 - Opening Browser
+2023-02-18 23:38:34,871  INFO [main] Driver:49 - Opened browser
+2023-02-18 23:38:40,245  INFO [main] Driver:56 - Click on signup page button
+2023-02-18 23:38:44,431  INFO [main] Driver:63 - Enter firstName
+2023-02-18 23:38:44,600  INFO [main] Driver:71 - Enter lastName
+2023-02-18 23:38:47,975  INFO [main] Driver:79 - Enter email
+2023-02-18 23:38:51,167  INFO [main] Driver:87 - Enter contactNumber
+2023-02-18 23:38:54,342  INFO [main] Driver:95 - Enter password
+2023-02-18 23:38:59,221  INFO [main] Driver:19 - Clicking about button
